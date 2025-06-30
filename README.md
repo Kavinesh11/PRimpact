@@ -43,9 +43,9 @@ pr-impact-analyzer summarize --owner <repo-owner> --repo <repo-name> --pr <pr-nu
 docker run -it pr-analyzer
 
 # The interactive menu will guide you through the available options:
-# 1. Test identifyModule
-# 2. Test isRiskyChange
-# 3. Exit
+ 1. Test identifyModule
+ 2. Test isRiskyChange
+ 3.  3. Exit
 
 
 GITHUB_TOKEN=your_github_token
